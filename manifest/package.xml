@@ -1382,6 +1382,10 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>new_label</members>
+        <name>CustomLabel</name>
+    </types>
+    <types>
         <members>Account</members>
         <members>AccountBrand</members>
         <members>AccountCleanInfo</members>
