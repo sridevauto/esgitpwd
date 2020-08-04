@@ -5,6 +5,6 @@
         <language>en_US</language>
         <protected>true</protected>
         <shortDescription>new label</shortDescription>
-        <value>&apos;test123&apos;,&apos;test234&apos;</value>
+        <value>&apos;test123&apos;,&apos;test234&apos;&apos;test124&apos;,&apos;tes3234&apos;</value>
     </labels>
 </CustomLabels>
